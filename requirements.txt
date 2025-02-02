@@ -5,3 +5,5 @@ langchain_community
 streamlit-chat
 pypdf
 chromadb
+pysqlite3-binary
+
